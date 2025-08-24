@@ -1,0 +1,4002 @@
+[
+    {
+        "id": "PIT_01_00001_01.tiff",
+        "report": "Lung, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_00068_01.tiff",
+        "report": "Lung, biopsy;\n  Fibroepithelial tumor"
+    },
+    {
+        "id": "PIT_01_00070_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00111_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00114_01.tiff",
+        "report": "Breast, biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_01_00144_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1) 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_00149_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_00155_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00168_01.tiff",
+        "report": "Breast, sono-guided core biopsy;\n  1 . Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_01_00172_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00182_01.tiff",
+        "report": "Breast, biopsy;\n  Ductal carcinoma in situ - Type: Cribriform - Nuclear grade: Intermediate - Necrosis: Present (Comedo-type)"
+    },
+    {
+        "id": "PIT_01_00193_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_00203_01.tiff",
+        "report": "Breast, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_00215_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00217_01.tiff",
+        "report": "Breast, mammotome biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_00227_01.tiff",
+        "report": "Breast, biopsy;\n  Fibroepithelial tumor"
+    },
+    {
+        "id": "PIT_01_00257_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_00284_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00328_01.tiff",
+        "report": "Breast, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_00404_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_01_00454_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Malignant lymphoma"
+    },
+    {
+        "id": "PIT_01_00455_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Malignant lymphoma"
+    },
+    {
+        "id": "PIT_01_00457_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  1 . Invasive lobular carcinoma 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_00503_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00527_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation"
+    },
+    {
+        "id": "PIT_01_00638_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_01_00640_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  1 . Invasive lobular carcinoma 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_00641_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive lobular carcinoma"
+    },
+    {
+        "id": "PIT_01_00645_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive lobular carcinoma"
+    },
+    {
+        "id": "PIT_01_00650_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00685_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_00688_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00711_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_01_00735_01.tiff",
+        "report": "Breast, biopsy;\n  Fibroepithelial tumor"
+    },
+    {
+        "id": "PIT_01_00761_01.tiff",
+        "report": "Lung, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_00775_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00792_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00796_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00818_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Malignant lymphoma"
+    },
+    {
+        "id": "PIT_01_00871_01.tiff",
+        "report": "Lung, biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_00884_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_01_00886_01.tiff",
+        "report": "Prostate, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00893_01.tiff",
+        "report": "Breast, biopsy;\n  Non-small cell carcinoma, favor squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_00944_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation without necrosis"
+    },
+    {
+        "id": "PIT_01_00992_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_00994_01.tiff",
+        "report": "Lung, biopsy;\n  Invasive mucinous adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01017_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_01038_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive lobular carcinoma"
+    },
+    {
+        "id": "PIT_01_01057_01.tiff",
+        "report": "Lung, biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_01103_01.tiff",
+        "report": "Prostate, biopsy;\n  Invasive mucinous adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01118_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive lobular carcinoma"
+    },
+    {
+        "id": "PIT_01_01129_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01157_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01185_01.tiff",
+        "report": "Breast, biopsy;\n  Ductal carcinoma in situ - Type: Cribriform - Nuclear grade: Intermediate - Necrosis: Absent"
+    },
+    {
+        "id": "PIT_01_01275_01.tiff",
+        "report": "Breast, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_01296_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01369_01.tiff",
+        "report": "Breast, biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_01408_01.tiff",
+        "report": "Breast, biopsy;\n  Ductal carcinoma in situ - Type: Solid - Nuclear grade: High - Necrosis: Present (Comedo-type)"
+    },
+    {
+        "id": "PIT_01_01414_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01432_01.tiff",
+        "report": "Breast, biopsy;\n  Ductal carcinoma in situ - Type: Solid - Nuclear grade: High - Necrosis: Absent"
+    },
+    {
+        "id": "PIT_01_01467_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01473_01.tiff",
+        "report": "Lung, biopsy;\n  1 . Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_01_01502_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01515_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01519_01.tiff",
+        "report": "Lung, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_01533_01.tiff",
+        "report": "Breast, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01537_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_01539_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01573_01.tiff",
+        "report": "Lung, biopsy;\n  Ductal carcinoma in situ - Type: Cribriform - Nuclear grade: Intermediate - Necrosis: Absent"
+    },
+    {
+        "id": "PIT_01_01590_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01608_01.tiff",
+        "report": "Breast, biopsy;\n  Ductal carcinoma in situ - Type: Solid - Nuclear grade: High - Necrosis: Present (Comedo-type)"
+    },
+    {
+        "id": "PIT_01_01626_01.tiff",
+        "report": "Lung, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_01684_01.tiff",
+        "report": "Lung, biopsy;\n  Small cell carcinoma"
+    },
+    {
+        "id": "PIT_01_01745_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01746_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_01_01763_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_01793_01.tiff",
+        "report": "Lung, biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_01804_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Columnar cell lesion 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_01841_01.tiff",
+        "report": "Lung, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_01843_01.tiff",
+        "report": "Breast, biopsy;\n  Ductal carcinoma in situ - Type: Cribriform - Nuclear grade: Intermediate - Necrosis: Absent"
+    },
+    {
+        "id": "PIT_01_01850_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01891_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive lobular carcinoma 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_01923_01.tiff",
+        "report": "Breast, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_01925_01.tiff",
+        "report": "Breast, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01957_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_01983_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_02038_01.tiff",
+        "report": "Lung, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_02066_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_02105_01.tiff",
+        "report": "Breast, sono-guided core biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_01_02127_01.tiff",
+        "report": "Breast, sono-guided core biopsy;\n  1 . Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_01_02149_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive carcinoma of no special type, grade I (Tubule formation: 2, Nuclear grade: 2, Mitoses: 1) 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_02177_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive lobular carcinoma 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_02191_01.tiff",
+        "report": "Breast, biopsy;\n  Ductal carcinoma in situ - Type: Solid - Nuclear grade: High - Necrosis: Present (Comedo-type)"
+    },
+    {
+        "id": "PIT_01_02195_01.tiff",
+        "report": "Breast, biopsy;\n  1 . Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_01_02545_01.tiff",
+        "report": "Breast, biopsy;\n  Fibroepithelial tumor"
+    },
+    {
+        "id": "PIT_01_02653_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_02659_01.tiff",
+        "report": "Lung, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_02693_01.tiff",
+        "report": "Breast, biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_01_02720_01.tiff",
+        "report": "Lung, biopsy;\n  Fibroepithelial tumor"
+    },
+    {
+        "id": "PIT_01_02740_01.tiff",
+        "report": "Lung, biopsy;\n  Ductal carcinoma in situ - Type: Cribriform - Nuclear grade: Intermediate - Necrosis: Absent"
+    },
+    {
+        "id": "PIT_01_02741_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_02774_01.tiff",
+        "report": "Lung, biopsy;\n  Fibroepithelial tumor"
+    },
+    {
+        "id": "PIT_01_02810_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_02845_01.tiff",
+        "report": "Breast, biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_01_02869_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation without necrosis"
+    },
+    {
+        "id": "PIT_01_02904_01.tiff",
+        "report": "Lung, biopsy;\n  Ductal carcinoma in situ - Type: Solid - Nuclear grade: High - Necrosis: Present (Comedo-type)"
+    },
+    {
+        "id": "PIT_01_02922_01.tiff",
+        "report": "Lung, biopsy;\n  Ductal carcinoma in situ - Type: Solid - Nuclear grade: Intermediate - Necrosis: Absent"
+    },
+    {
+        "id": "PIT_01_02928_01.tiff",
+        "report": "Lung, biopsy;\n  Papillary neoplasm"
+    },
+    {
+        "id": "PIT_01_02967_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3)"
+    },
+    {
+        "id": "PIT_01_02988_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03001_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03017_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03025_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3) with glandular involvement"
+    },
+    {
+        "id": "PIT_01_03053_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3) with glandular involvement"
+    },
+    {
+        "id": "PIT_01_03081_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03100_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03141_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3) with glandular involvement"
+    },
+    {
+        "id": "PIT_01_03167_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Endocervical adenocarcinoma, HPV-associated, HPV-associated, HPV-associated"
+    },
+    {
+        "id": "PIT_01_03187_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3)"
+    },
+    {
+        "id": "PIT_01_03210_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Invasive squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_03212_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3)"
+    },
+    {
+        "id": "PIT_01_03227_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03233_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03241_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3)"
+    },
+    {
+        "id": "PIT_01_03252_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03280_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03290_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3) with glandular involvement"
+    },
+    {
+        "id": "PIT_01_03293_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03321_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03328_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3) with glandular involvement"
+    },
+    {
+        "id": "PIT_01_03412_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03468_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 3)"
+    },
+    {
+        "id": "PIT_01_03491_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03540_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03560_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Invasive squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_03565_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03588_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03634_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03654_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03680_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03685_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03698_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Low-grade squamous intraepithelial lesion (LSIL;\n  CIN 1)"
+    },
+    {
+        "id": "PIT_01_03703_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_01_03716_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  Chronic nonspecific cervicitis"
+    },
+    {
+        "id": "PIT_01_03795_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_03799_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_03839_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_01_03874_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_03875_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_03880_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_03888_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_03900_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_01_03914_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_03967_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_03975_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_03976_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04005_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_04017_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_04022_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04028_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_04040_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_01_04053_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_04076_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04089_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_04123_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04141_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_04144_01.tiff",
+        "report": "Colon, colonoscopic submucosal dissection;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_04201_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_04219_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Neuroendocrine tumor, grade 1"
+    },
+    {
+        "id": "PIT_01_04260_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04275_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04319_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_04348_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_04353_01.tiff",
+        "report": "Colon, colonoscopic submucosal dissection;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_04380_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04396_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04406_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04414_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_04428_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04430_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic active colitis"
+    },
+    {
+        "id": "PIT_01_04450_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_04455_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_04498_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_04555_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04557_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04590_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_04629_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04633_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_01_04640_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_04641_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_04689_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_04704_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Chronic active colitis"
+    },
+    {
+        "id": "PIT_01_04769_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic active colitis"
+    },
+    {
+        "id": "PIT_01_04802_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_04822_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_04824_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_04829_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_04844_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_04869_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_04870_01.tiff",
+        "report": "Lung, biopsy;\n  No evidence of malignancy or granuloma"
+    },
+    {
+        "id": "PIT_01_04871_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation with necrosis"
+    },
+    {
+        "id": "PIT_01_04880_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_04965_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_04983_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation with necrosis"
+    },
+    {
+        "id": "PIT_01_05014_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05015_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation with necrosis"
+    },
+    {
+        "id": "PIT_01_05028_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation with necrosis"
+    },
+    {
+        "id": "PIT_01_05055_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05064_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05065_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05068_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05095_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05096_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05101_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05121_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05147_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05169_01.tiff",
+        "report": "Prostate, biopsy;\n  Small cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05172_01.tiff",
+        "report": "Lung, biopsy;\n  No evidence of malignancy or granuloma"
+    },
+    {
+        "id": "PIT_01_05192_01.tiff",
+        "report": "Lung, biopsy;\n  No evidence of malignancy or granuloma"
+    },
+    {
+        "id": "PIT_01_05243_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation with necrosis"
+    },
+    {
+        "id": "PIT_01_05258_01.tiff",
+        "report": "Lung, biopsy;\n  No evidence of malignancy or granuloma"
+    },
+    {
+        "id": "PIT_01_05339_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05345_01.tiff",
+        "report": "Lung, biopsy;\n  Chronic granulomatous inflammation"
+    },
+    {
+        "id": "PIT_01_05362_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05380_01.tiff",
+        "report": "Lung, biopsy;\n  Small cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05414_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05416_01.tiff",
+        "report": "Lung, biopsy;\n  Small cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05426_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05433_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05513_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05532_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05546_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05605_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05610_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05631_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_05637_01.tiff",
+        "report": "Lung, biopsy;\n  Non-small cell carcinoma, favor squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_01_05697_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_05700_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_05716_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_05717_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_05756_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_05760_02.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_05772_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_05780_02.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_05783_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_05793_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_05805_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_05805_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_05809_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_05819_02.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_05828_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_05856_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_05910_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_05916_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_05921_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_05929_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_05929_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_05964_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_05974_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_05979_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_05980_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06002_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06071_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06079_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06098_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_06102_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06110_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06111_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_06135_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_06137_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06164_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06172_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06196_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06198_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06230_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06247_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06259_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 60%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06271_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06282_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06296_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06308_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06345_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06355_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06356_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_06363_02.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06368_02.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06383_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06405_02.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06408_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06412_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06454_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06460_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06506_02.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06513_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_06516_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06521_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06559_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06565_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 70%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06578_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06583_02.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06608_02.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06647_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06664_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 100%"
+    },
+    {
+        "id": "PIT_01_06679_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06751_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06767_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_06794_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06805_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_06817_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06826_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_06913_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06933_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_06946_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_06956_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_07008_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_07032_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_07043_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_07046_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_07060_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07081_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_07115_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 60%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07298_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_07317_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_07385_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07391_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07396_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07417_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_07440_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07442_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_07488_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07504_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07514_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 10%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07538_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_07549_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 30%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_01_07559_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_07581_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_01_07588_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_01_07610_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_01_07671_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_07685_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_07708_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_07740_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_01_07747_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_07781_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_07793_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_07810_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_07827_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Malignant lymphoma"
+    },
+    {
+        "id": "PIT_01_07845_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Extranodal marginal zone B cell lymphoma of MALT type"
+    },
+    {
+        "id": "PIT_01_07849_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_01_07861_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis"
+    },
+    {
+        "id": "PIT_01_07900_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_07922_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_07947_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_01_07987_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_07997_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_08091_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08092_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_01_08105_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_08124_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Malignant lymphoma"
+    },
+    {
+        "id": "PIT_01_08132_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Neuroendocrine tumor"
+    },
+    {
+        "id": "PIT_01_08138_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis"
+    },
+    {
+        "id": "PIT_01_08215_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Extranodal marginal zone B cell lymphoma of MALT type"
+    },
+    {
+        "id": "PIT_01_08216_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic active gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_08220_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_08234_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+    },
+    {
+        "id": "PIT_01_08300_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08317_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_08349_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+    },
+    {
+        "id": "PIT_01_08360_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08363_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_08364_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08373_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_08391_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08445_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic active gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_08474_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_01_08475_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_08493_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Extranodal marginal zone B cell lymphoma of MALT type"
+    },
+    {
+        "id": "PIT_01_08514_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08517_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08562_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_08566_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_08623_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Extranodal marginal zone B cell lymphoma of MALT type"
+    },
+    {
+        "id": "PIT_01_08663_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_08675_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Extranodal marginal zone B cell lymphoma of MALT type"
+    },
+    {
+        "id": "PIT_01_08677_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+    },
+    {
+        "id": "PIT_01_08697_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08710_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08723_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_01_08728_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_08770_01.tiff",
+        "report": "Rectum, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_08776_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_08777_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_08851_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+    },
+    {
+        "id": "PIT_01_08863_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis with interstinal metaplasia"
+    },
+    {
+        "id": "PIT_01_09016_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09019_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09030_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09059_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09065_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_09090_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_09154_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_09155_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09168_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Extranodal marginal zone B cell lymphoma of MALT type"
+    },
+    {
+        "id": "PIT_01_09170_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09206_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_01_09229_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Extranodal marginal zone B cell lymphoma of MALT type"
+    },
+    {
+        "id": "PIT_01_09231_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_01_09248_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_09344_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09356_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis"
+    },
+    {
+        "id": "PIT_01_09357_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_01_09392_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_09429_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+    },
+    {
+        "id": "PIT_01_09439_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_01_09464_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09512_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic gastritis"
+    },
+    {
+        "id": "PIT_01_09613_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_01_09616_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09708_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Extranodal marginal zone B cell lymphoma of MALT type"
+    },
+    {
+        "id": "PIT_01_09730_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09737_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_01_09893_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09898_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Urothelial carcinoma in situ Note) The specimen does not include muscle proper ."
+    },
+    {
+        "id": "PIT_01_09909_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  No tumor present Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09912_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09953_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09956_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09957_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09969_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09980_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09986_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_09993_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Non-invasive papillary urothelial carcinoma, high grade 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10006_03.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10022_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10030_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10035_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10038_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10055_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10072_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10076_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10099_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10101_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10141_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10146_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10153_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10161_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10168_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of muscle proper Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10174_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10175_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of muscle proper Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10179_05.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of muscle proper 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10186_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of muscle proper Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10222_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10223_03.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Non-invasive papillary urothelial carcinoma, high grade 2 . Chronic granulomatous inflammation with foreign body reaction Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10233_03.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen does not include muscle proper ."
+    },
+    {
+        "id": "PIT_01_10235_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, low grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10251_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, low grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10299_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10312_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10331_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, low grade Note) The specimen does not include muscle proper ."
+    },
+    {
+        "id": "PIT_01_10355_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10361_04.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10368_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of subepithelial connective tissue Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10371_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10374_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Non-invasive papillary urothelial carcinoma, low grade 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10384_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10411_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10412_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10422_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10459_03.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Non-invasive papillary urothelial carcinoma, high grade 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10461_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10497_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Non-invasive papillary urothelial carcinoma, high grade 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10517_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Non-invasive papillary urothelial carcinoma, high grade Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10533_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Invasive urothelial carcinoma, with involvement of subepithelial connective tissue 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10537_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_01_10597_02.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  1 . Non-invasive papillary urothelial carcinoma, high grade 2 . Urothelial carcinoma in situ Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_02_00003_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_02_00005_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_02_00020_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_02_00044_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 9 (4+5), grade group 5, tumor volume: 100%"
+    },
+    {
+        "id": "PIT_02_00046_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubulovillous adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_02_00053_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_02_00107_01.tiff",
+        "report": "Breast, biopsy;\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+    },
+    {
+        "id": "PIT_02_00152_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_02_00185_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_02_00214_01.tiff",
+        "report": "Uterine cervix, colposcopic biopsy;\n  High-grade squamous intraepithelial lesion (HSIL;\n  CIN 2)"
+    },
+    {
+        "id": "PIT_02_00229_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_02_00238_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_02_00257_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Invasive urothelial carcinoma, with involvement of muscle proper Note) The specimen includes muscle proper ."
+    },
+    {
+        "id": "PIT_02_00291_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_02_00304_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_03_00028_02.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_03_00258_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_03_00445_01.tiff",
+        "report": "Prostate, biopsy;\n  Invasive mucinous adenocarcinoma"
+    },
+    {
+        "id": "PIT_03_00633_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_03_01324_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_03_01457_01.tiff",
+        "report": "Lung, biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_03_01511_01.tiff",
+        "report": "Lung, biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_04_00259_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Adenocarcinoma"
+    },
+    {
+        "id": "PIT_04_00263_01.tiff",
+        "report": "Urinary bladder, transurethral resection;\n  Adenocarcinoma, poorly differentiated"
+    },
+    {
+        "id": "PIT_04_00429_01.tiff",
+        "report": "Stomach, endoscopic biopsy;\n  Chronic active gastritis"
+    },
+    {
+        "id": "PIT_06_00001_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00003_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00004_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00006_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00008_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00009_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00011_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00012_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00013_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00014_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00029_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00037_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00038_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00039_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00044_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00046_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00050_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00051_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00053_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00061_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 50%"
+    },
+    {
+        "id": "PIT_06_00064_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00065_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00067_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00069_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00077_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00079_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00082_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 50%"
+    },
+    {
+        "id": "PIT_06_00084_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00085_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 60%"
+    },
+    {
+        "id": "PIT_06_00088_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00089_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00091_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00095_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00098_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00099_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00100_01.tiff",
+        "report": "Colon, colonoscopic sono-guided core biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00102_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00103_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_06_00107_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00109_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00110_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00112_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00113_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00114_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00115_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00117_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  1 . Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_06_00118_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00119_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00120_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00122_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00125_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00126_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00127_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00130_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00135_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00137_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00138_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00143_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00144_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00147_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00150_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00151_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00152_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00154_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00158_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_00160_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00169_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00172_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00179_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00185_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00186_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00188_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00191_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00193_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00195_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00200_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00201_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00203_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00213_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00214_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00219_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00231_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00234_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00241_01.tiff",
+        "report": "Breast, sono-guided core biopsy;\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+    },
+    {
+        "id": "PIT_06_00242_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00244_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00246_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00247_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00249_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00252_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00253_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00255_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00259_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00262_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00265_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00266_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00268_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00269_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00277_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubulovillous adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00278_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00281_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00283_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00284_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00289_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma, high grade 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_00295_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00296_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00300_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00301_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00302_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00303_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00305_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00309_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00312_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00313_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubulovillous adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00316_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00323_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00327_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00331_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00334_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00337_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00339_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00340_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00342_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00355_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00359_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00360_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00362_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00363_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00369_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00371_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00374_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubulovillous adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00376_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00377_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00380_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00381_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00382_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00389_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00392_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00393_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00395_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00397_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00400_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00401_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma in situ 3 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_00408_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00409_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00413_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00414_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00416_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Invasive urothelial carcinoma, grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00417_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubulovillous adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00421_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00425_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00428_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00429_01.tiff",
+        "report": "Breast, sono-guided core biopsy;\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+    },
+    {
+        "id": "PIT_06_00430_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00432_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00437_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00439_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00440_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00442_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00443_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00444_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00445_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00448_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00450_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00453_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00455_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00460_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00466_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00470_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00471_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00473_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00475_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00477_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00479_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00481_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00482_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00486_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00490_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00496_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00500_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00503_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00511_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_06_00512_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 40%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00513_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00517_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00518_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00520_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00524_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00525_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00527_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00528_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive lobular carcinoma"
+    },
+    {
+        "id": "PIT_06_00529_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00531_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00534_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00535_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00539_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00540_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00544_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00546_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00550_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00552_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_00553_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00560_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00562_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00566_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00567_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00569_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_00571_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00578_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 50%"
+    },
+    {
+        "id": "PIT_06_00579_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00583_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00584_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00586_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00587_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00591_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00593_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive lobular carcinoma"
+    },
+    {
+        "id": "PIT_06_00603_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00605_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00606_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00608_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00611_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00613_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00617_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00618_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00619_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00621_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00623_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00626_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  1 . Invasive urothelial carcinoma, grade 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_00631_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00632_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00634_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00637_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00638_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00646_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00647_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00648_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00649_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00652_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00654_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00659_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00660_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00670_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00672_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00673_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00681_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00685_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00697_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00698_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00699_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00702_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubulovillous adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00704_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00706_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00709_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00711_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_00716_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00721_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2) 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_00723_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00725_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00727_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00729_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00730_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00731_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00740_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00741_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00748_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00750_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00752_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00754_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00755_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00757_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma component"
+    },
+    {
+        "id": "PIT_06_00758_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00759_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00762_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00767_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00768_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00770_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00774_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00775_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubulovillous adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00776_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00780_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00782_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00784_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00785_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00787_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00794_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00796_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00797_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00803_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00804_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00807_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00810_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  1 . Invasive urothelial carcinoma, grade 2 . grade 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_00811_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00812_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00815_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00817_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00820_01.tiff",
+        "report": "Colon, colonoscopic sono-guided core biopsy;\n  Mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_00824_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  1 . Invasive urothelial carcinoma, high grade 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_00840_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00841_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00843_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00846_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00850_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2) 2 . Ductal carcinoma in situ"
+    },
+    {
+        "id": "PIT_06_00852_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma in situ 3, grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00857_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00860_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00861_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00862_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Squamous cell carcinoma"
+    },
+    {
+        "id": "PIT_06_00864_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00865_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00866_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00868_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00869_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00872_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00874_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00880_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00881_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00882_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubulovillous adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00883_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00884_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma in situ 3 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_00885_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00886_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00889_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_00893_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00894_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00895_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_00901_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00903_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00906_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00909_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00910_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00914_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00927_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_00929_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00930_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00934_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00936_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00937_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00938_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00939_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00942_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00949_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_00952_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00963_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00964_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00967_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00968_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00972_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00974_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_00984_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_00988_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00990_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00991_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_00994_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  1 . Invasive lobular carcinoma 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_00995_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_00996_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01003_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_01010_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01011_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, poorly differentiated with poorly cohesive carcinoma component"
+    },
+    {
+        "id": "PIT_06_01012_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01016_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01023_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01025_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01028_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01031_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01034_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01036_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01038_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 7 (3+4), grade group 2 (Gleason pattern 4: 90%), tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_01045_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_01047_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01048_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01049_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01050_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01052_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01054_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_01056_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Invasive urothelial carcinoma"
+    },
+    {
+        "id": "PIT_06_01057_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_01058_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01060_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01061_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_01065_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01066_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_01072_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01083_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01089_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_01093_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01100_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_01101_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01106_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01116_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01124_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01134_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01138_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01144_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive mucinous carcinoma component"
+    },
+    {
+        "id": "PIT_06_01152_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01155_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01161_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01163_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01170_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_01171_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01174_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01177_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01182_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01184_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubulovillous adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01191_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01196_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01197_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01199_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01200_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01204_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01206_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  1 . Invasive urothelial carcinoma, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1) 2 . Microcalcification"
+    },
+    {
+        "id": "PIT_06_01218_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01219_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_01224_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01227_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Hyperplastic polyp"
+    },
+    {
+        "id": "PIT_06_01231_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_01236_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01241_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_01242_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01243_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01247_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01252_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_01256_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_01260_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_01268_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_01269_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01281_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01289_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01296_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01309_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01326_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01327_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01329_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01330_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01333_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_01336_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubulovillous adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01338_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_01341_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_01345_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01348_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 8 (4+4), grade group 4, tumor volume: 90%"
+    },
+    {
+        "id": "PIT_06_01349_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01350_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Invasive mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_01351_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01352_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_01360_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01362_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01363_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01364_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_01366_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01369_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01370_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01371_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01372_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01375_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01376_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01380_01.tiff",
+        "report": "Colon, colonoscopic mucosal resection;\n  Invasive urothelial carcinoma, grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01384_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01395_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_01406_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01410_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_01411_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01413_01.tiff",
+        "report": "Breast, sono-guided core biopsy;\n  Invasive carcinoma of no special type, grade II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)"
+    },
+    {
+        "id": "PIT_06_01418_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01419_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01421_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01422_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_01424_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01428_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01436_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01443_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01444_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01445_01.tiff",
+        "report": "Prostate, biopsy;\n  Acinar adenocarcinoma, Gleason's score 6 (3+3), grade group 1, tumor volume: 10%"
+    },
+    {
+        "id": "PIT_06_01446_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01454_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01458_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01460_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01464_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01474_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01475_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01477_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01480_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01481_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01500_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Mucinous carcinoma"
+    },
+    {
+        "id": "PIT_06_01502_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_01505_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01513_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01516_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_01517_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Chronic nonspecific inflammation"
+    },
+    {
+        "id": "PIT_06_01518_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01520_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01521_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, well differentiated"
+    },
+    {
+        "id": "PIT_06_01533_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01534_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01538_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Adenocarcinoma, moderately differentiated"
+    },
+    {
+        "id": "PIT_06_01540_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01541_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01542_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01545_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with low grade dysplasia"
+    },
+    {
+        "id": "PIT_06_01546_01.tiff",
+        "report": "Prostate, biopsy;\n  No tumor present"
+    },
+    {
+        "id": "PIT_06_01548_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma"
+    },
+    {
+        "id": "PIT_06_01553_01.tiff",
+        "report": "Colon, colonoscopic biopsy;\n  Tubular adenoma with high grade dysplasia"
+    }
+]

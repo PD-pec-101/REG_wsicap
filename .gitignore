@@ -1,0 +1,6 @@
+# Ignore everything in temp/ folder
+CLAM/
+results/uni
+results/uni2/model_best.pth
+results/uni2/reports/
+results/uni2/reports_test1/
