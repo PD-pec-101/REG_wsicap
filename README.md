@@ -17,7 +17,7 @@ conda env create -f enviroment.yml
 ```
 
 ### Inference
-Download the trained model [wsicap]() and place this .pt file inside as results/uni2/model_best.pth
+Download the trained model [wsicap](https://drive.google.com/file/d/1grhI6NU9CyEmqKqKDIM2eRN9W3RVAg46/view) and place this .pt file inside as results/uni2/model_best.pth
 
 To test the model, run:
 ```
